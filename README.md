@@ -15,6 +15,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -24,6 +25,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </a>
+</br>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -42,6 +44,7 @@
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/css3-original.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
+</br>
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
@@ -60,6 +63,4 @@
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=115&color=f27373" alt="" width="40" height="40"/> 
 </a>
-<a href="" target="_blank" rel="noreferrer">
-<img src="https://icongr.am/devicon/windows8-original.svg?size=115&color=f27373" alt="" width="40" height="40"/> 
-</a>
+
