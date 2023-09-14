@@ -4,6 +4,7 @@
 </br>
 📫 How to reach me pouria.net2020@gmail.com
 
+## 🔧 Technologies & Tools
 <p align="left"> 
   
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -25,7 +26,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </a>
-</br>
+
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -44,7 +45,7 @@
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/css3-original.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
-</br>
+
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
