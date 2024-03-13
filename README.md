@@ -54,6 +54,9 @@
 <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
+</a>
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/linux-original.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
 <a href="" target="_blank" rel="noreferrer">
