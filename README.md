@@ -2,7 +2,7 @@
 
 👯 I’m looking to collaborate on : .NET Projects
 </br>
-📫 How to reach me pouria.net2020@gmail.com
+📫 How to reach me pouria.rahnama78@gmail.com
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
