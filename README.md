@@ -50,6 +50,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=72" alt="TypeScript Icon" width="40" height="40"/>
+</a>
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
