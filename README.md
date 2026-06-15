@@ -65,5 +65,8 @@
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/vim-original.svg?size=72&color=currentColor" alt="" width="40" height="40"/> 
 </a>
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=72" alt="Angular Icon" width="40" height="40"/>
+</a>
 
 
